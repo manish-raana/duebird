@@ -77,7 +77,7 @@ strong { font-weight: 700; }
 .contact p:last-child { margin-bottom: 0; }
 
 details { border-bottom: 1px solid var(--line); padding: 14px 0; }
-details summary { cursor: pointer; font-weight: 700; font-size: 18px; list-style-position: outside; }
+details summary { cursor: pointer; font-weight: 700; font-size: 18px; }
 details[open] summary { margin-bottom: 8px; }
 details p:last-child, details ul:last-child { margin-bottom: 0; }
 
